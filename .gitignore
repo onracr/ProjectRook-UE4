@@ -1,0 +1,26 @@
+# Unreal Generated Files
+
+Binaries/*
+Build/*
+Content/*
+!Content/Blueprints/
+!Content/Character/
+Content/Character/*
+!Content/Character/Main_BP.uasset
+!Content/Enemies/
+!Content/HUD/
+!Content/Maps/
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+*_BuiltData.uasset
+
+# VS Generated Files
+.vs/
+.vscode/*
+*.VC.db
+*.ini
+*.opensdf
+*.log
+*.sln
+*.suo
